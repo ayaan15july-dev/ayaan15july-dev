@@ -21,6 +21,6 @@ I'm **Ayaan**, a fresher **Data Analyst** based in Delhi NCR, passionate about t
 
 ## 📬 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--handle-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayaan-shaikh-3a5bb5322/)
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat&logo=gmail)](mailto:ayaan15july@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-your--github--username-black?style=flat&logo=github)](https://github.com/ayaan15july-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayaan--Shaikh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayaan-shaikh-3a5bb5322/)
+[![Email](https://img.shields.io/badge/Email-ayaan15july@gmail.com-red?style=flat&logo=gmail)](mailto:ayaan15july@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayaan15july---dev-black?style=flat&logo=github)](https://github.com/ayaan15july-dev)
